@@ -32,3 +32,18 @@ attributes = {unimportant = AnsiEscape'black',
 icons = {ellipsis = '...',
          sandclock = '...'}
 ```
+
+
+API
+---
+
+### Module `line-format`
+#### Function `.render(...)`
+#### Class `.Static`
+#### Class `.Attribute`
+#### Class `.Icon`
+#### Class `.Fill`
+#### Class `.Bar`
+#### Class `.Block`
+#### Class `.Optional`
+#### Class `.AnsiEscape`
